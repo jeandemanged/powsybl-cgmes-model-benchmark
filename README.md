@@ -1,3 +1,7 @@
+> https://github.com/powsybl/powsybl-benchmark is a better place for actual PowSyBl benchmarks implementation. This
+> benchmark is only to support discussion about the following
+> [LinkedIn post](https://www.linkedin.com/posts/kristjan-vilgo_cim-cgmes-entsoe-activity-7431581802840002560-QlUa?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAABKds-EBe-Ux86-BZiu6qblrKL4Rv8Fbv1U).
+
 Benchmark of PowSyBl CGMES features, using ENTSO-E RealGrid test configuration (CGMES 2.4.15).
 
 Given figures are averages over 10 executions.
